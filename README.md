@@ -9,7 +9,6 @@ Step 2:
 ```bash
 npm install
 # or, 
-```bash
 yarn install
 ```
 

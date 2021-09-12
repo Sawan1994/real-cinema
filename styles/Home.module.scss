@@ -1,0 +1,13 @@
+.container {
+  box-sizing: border-box;
+  padding: 0 20px;
+  margin: 0 auto;
+
+  @media screen and (min-width: 1024px) {
+    width: 1024px;
+  }
+}
+
+.search__container{
+  margin: 20px 0;
+}
